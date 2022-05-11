@@ -13,7 +13,7 @@ A Colorado Board of Elections employees has given me the following task to compl
 - Software Python 3.10, Visual Studio Code, 1.67.1
 
 ## Summary
-The analysis of the election shows that Diana DeGette won with 73.8% (272,892 votes)
+The analysis of the election shows that:
 - There were a total of 369,711 votes cast in this election.
 - The candidates were: 
       - Diana DeGette
