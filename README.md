@@ -19,9 +19,15 @@ The analysis of the election shows that:
       - Diana DeGette
       - Charles Casper Stockham
       - Raymon Anthony Doane
-- The candidate results were:'
+- The candidate results were:
       - Diana DeGette received 73.8% of the vote and 272,892 of votes.
       - Charles Casper Stockham received 23.0% of the vote and 85,213 of votes.
       - Raymon Anthony Doane received 3.1% of the vote and 11,606 of votes.
 - The winner of the election was:
       - Diana DeGette who received 73.8% of the votes and 272,892 votes.
+
+## Challenge Overview
+We were tasked with writing code that counted all of the votes for each of the 3 candidates to determine the winner. We started by writing our code to pull the data from the election_results.csv file for our analysis. We determined who the 3 candidates were, totalled their votes, and then converted them to a percentage. By creating headers we were able to format our results, then write the results to a text file summarizing our work. 
+
+## Challenge Summary
+We deterined that Diana Degette won the election by a landslide 73.8% (272,892) of the votes with Charles Casper Stockham coming in 2nd with 23.0% of the votes and finally Raymon Anthony Doane with 3.1% of the votes. Our code allows us to quickly parse through thousands of lines of data very quickly and accurately to determine the outcome of the election. This is far more efficient than manually counting each vote. I can imagine many scenarios where coding will make work like this a lot more time and cost efficient. 
