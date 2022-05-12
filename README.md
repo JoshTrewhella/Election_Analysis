@@ -4,8 +4,11 @@ A Colorado Board of Elections employees has given me the following task to compl
 
 * Calculate the total number of votes cast. - Total Votes: 369,711
 * County Votes:
+
       - Jefferson: 10.5% (38,855)
+      
       - Denver: 82.8% (306,055)
+     
       - Arapahoe: 6.7% (24,801)
 * Denver county had the highest amount of votes.
 * Votes by candidate:
