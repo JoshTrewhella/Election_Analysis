@@ -21,9 +21,9 @@ A Colorado Board of Elections employees has given me the following task to compl
       
       - Raymon Anthony Doane received 3.1% of the vote and 11,606 of votes.
       
-* The winner of the election was:
-      - Diana DeGette who received 73.8% of the votes and 272,892 votes.
-* Determine the winner of the election based on popular vote.
+* The winner of the election was Diana DeGette who received 73.8% of the votes and 272,892 votes.
+ 
+* The winner of the election was based on popular vote.
 
 ## Resources
 - Data source: election_results.csv
