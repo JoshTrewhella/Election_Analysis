@@ -10,11 +10,17 @@ A Colorado Board of Elections employees has given me the following task to compl
       - Denver: 82.8% (306,055)
      
       - Arapahoe: 6.7% (24,801)
+ 
 * Denver county had the highest amount of votes.
+
 * Votes by candidate:
+
       - Diana DeGette received 73.8% of the vote and 272,892 of votes.
+      
       - Charles Casper Stockham received 23.0% of the vote and 85,213 of votes.
+      
       - Raymon Anthony Doane received 3.1% of the vote and 11,606 of votes.
+      
 * The winner of the election was:
       - Diana DeGette who received 73.8% of the votes and 272,892 votes.
 * Determine the winner of the election based on popular vote.
